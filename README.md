@@ -1,3 +1,2 @@
-# website-jenkins-docker
-A simple website to deploy on docker using github-jenkins-SonarQube and Docker.
-I added some files in this repo.
+This Project is creating an automated pipeline using github-webhook to trigger automatically by jenkins pipeline and will use sonarqube for code testing 
+and will run a docker image from as a website.
