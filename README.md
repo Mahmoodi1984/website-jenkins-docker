@@ -27,6 +27,7 @@ Um einen sicheren Zugriff auf die Website über den Browser zu ermöglichen, hab
 Dieses Projekt ist eine CI/CD-Pipeline, die meine Website mithilfe einer automatisierten Pipeline in Docker ausführt und den Zugriff über HTTPS ermöglicht.
 
 📌 Schritte zur Umsetzung
+
 1-Ich habe drei Ubuntu T2.medium Instanzen auf AWS erstellt für:
 
   • Jenkins-Server
